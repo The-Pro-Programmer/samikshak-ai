@@ -1,9 +1,9 @@
-transformers
-torch
-opencv-python
-pytesseract
-fastapi
-uvicorn
-scikit-learn
-nltk
-openai-eval
+python -m venv venv
+.\venv\Scripts\activate
+python -m ensurepip --upgrade
+python -m pip install --upgrade pip
+
+pip install paddlepaddle paddleocr
+pip install opencv-python pillow
+
+
