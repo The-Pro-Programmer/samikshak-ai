@@ -1,0 +1,9 @@
+transformers
+torch
+opencv-python
+pytesseract
+fastapi
+uvicorn
+scikit-learn
+nltk
+openai-eval
